@@ -10,4 +10,20 @@ Analysing the last 2 decades of data, we notice that the movie industry experien
 (quarter of year)
 ![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/a2fa990d-3520-4ec1-a205-5128f067a6ab)
 
+directors
 ![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/6e913a40-cf4d-42f0-b150-e824236460df)
+
+range by type
+![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/793c9f0b-2632-4b47-a9a1-3fb06690faf9)
+
+rating by type
+![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/cdb372bc-73ca-45f2-8be3-a4312149cbae)
+
+genre
+![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/8c587a34-c0c9-4bc5-8d4a-7e2868991ae6)
+
+duration of movie distribution
+![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/c388d99b-0c72-4cad-bc0a-5438b5edf21d)
+
+duration of show distribution
+![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/7c7b3939-4131-4b65-befb-259d0717d5a6)
