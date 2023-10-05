@@ -10,3 +10,4 @@ Analysing the last 2 decades of data, we notice that the movie industry experien
 (quarter of year)
 ![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/a2fa990d-3520-4ec1-a205-5128f067a6ab)
 
+![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/6e913a40-cf4d-42f0-b150-e824236460df)
