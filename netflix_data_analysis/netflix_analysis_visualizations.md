@@ -1,3 +1,5 @@
+# Visualization and Analysis of Netflix Data
+
 70% of the content on Netflix are movies. Movies typically have a finite duration and tell a complete story within that timeframe. This format allows for a concentrated and immersive viewing experience, often attracting a broad range of audiences. Series, on the other hand, involve multiple episodes or seasons, requiring a longer time commitment from viewers. This tendency works not only for Netflix, but for the whole indusrtry in general.
 
 ![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/793c9f0b-2632-4b47-a9a1-3fb06690faf9)
@@ -25,13 +27,20 @@ Most of the top directors are from US or India. As discussed previously, economi
 ***
 
 Netflix's target audience primarily comprises mature viewers, as evidenced by the prominence of content ratings like TV-MA and R. This demographic represents a substantial portion of their viewership. The second significant audience segment includes teenagers, as indicated by content rated TV-14 and TV-PG. Netflix offers a diverse range of content suitable for this age group, although parental supervision is often advisable or necessary. Netflix leverages the power of data analytics and market insights to gain a deep understanding of viewer preferences and industry trends. Their content portfolio is meticulously curated to cater to the preferences of both mature audiences and teenagers. The demand for adult-oriented shows, as well as family-friendly and young adult content, plays a pivotal role in shaping Netflix's content acquisition and production strategies.
+
 ![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/cdb372bc-73ca-45f2-8be3-a4312149cbae)
+***
 
-genre
+Nearly half of the content on the platform falls into the Drama or Comedy genres, with Documentaries and Adventures also enjoying popularity. Drama and comedy genres are widely appealing, offering relatable narratives and characters that connect with a broad audience. Documentaries, on the other hand, provide unique storytelling, offering insights into real-world events and serving as educational tools. Meanwhile, Adventure content, including action-packed movies and travel documentaries, satisfies viewers' thirst for excitement and exploration, offering the chance to discover new cultures and experiences.
+
 ![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/8c587a34-c0c9-4bc5-8d4a-7e2868991ae6)
+***
 
-duration of movie distribution
+After data normalization to remove anomalous deviations, on the histogram we can see classical Gauss Distribution. Average durability of a movie is about 90-110 minutes. The duration of a movie is typically optimized to fit within a specific time slot, allowing for multiple screenings throughout the day. A duration of 90-120 minutes allows for efficient scheduling and the potential for increased box office revenue.
+
+The tendency is shows us that most of the TV Shows have only one season. The more seasons it has, the less rare you can find such durability.
+The production costs of TV Shows can be significant, and the decision to continue a series beyond one season often depends on financial viability. If a series fails to attract a sufficient audience or generate the desired revenue, it may be more practical to conclude it after one season rather than incur additional expenses.
+
 ![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/c388d99b-0c72-4cad-bc0a-5438b5edf21d)
-
-duration of show distribution
 ![image](https://github.com/midnightsun257/SQL-and-Tableau-projects/assets/78453293/7c7b3939-4131-4b65-befb-259d0717d5a6)
+***
