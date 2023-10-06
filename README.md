@@ -6,7 +6,12 @@ Netflix is a widely-known streaming service renowned for its extensive collectio
 The primary objective of this project is to meticulously prepare and cleanse the data using Pandas followed by visualizing it using Tableau. This undertaking serves as a testbed to evaluate my proficiency in data cleaning and visualization.
 
 Key Project Components:
-1.Data Formatting and Preparations
-2.Data Cleaning
-3.Data Visualization
-4. Conclusion and Analysis
+- Data Formatting and Preparations
+- Data Cleaning
+- Data Visualization
+- Conclusion and Analysis
+
+## Instagram Model
+In this project, a simulated Instagram model was meticulously constructed using SQL, and synthetic data was meticulously injected into its diverse tables. The core objective was to comprehensively scrutinize the intricate interplay of these tables and how they function in concert to create the Instagram experience. Employing a variety of SQL techniques, I delved deep into the data to gain profound insights into user behavior within this model. This included a rigorous examination of user interactions, content sharing, and engagement patterns.
+
+Furthermore, I extracted and analyzed a plethora of statistical data pertaining to the users within this mock Instagram environment. This encompassed a wide array of metrics, ranging from user activity levels to content preferences and engagement frequencies. Through this exploration, I aimed to uncover valuable insights into the dynamics of this virtual Instagram world, shedding light on user behavior and patterns that could inform real-world strategies and decision-making in social media and digital marketing contexts.
